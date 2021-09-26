@@ -1,0 +1,4 @@
+x = lambda n : n+25
+
+result = x(45)
+print(result)
